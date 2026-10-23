@@ -1,0 +1,12 @@
+{
+  "project": "RokkuDayo/ForzaHorizon2_ExtraOptions",
+  "release": "v0.2.98-latest",
+  "tag": "Azimuth_v0.9.10",
+  "url": "https://github.com/RokkuDayo/ForzaHorizon2_ExtraOptions/releases/tag/Azimuth_v0.9.10",
+  "assetSHA256": "sha256:d3b9db715416abd8efef4048445a9edbe22d333ba0267fb48fb255dfab000c38",
+  "winmmSHA256": "d372b3a331c93cbbbf984d9a3b5df63836fdfb2aee26a10660c838c4806ff3d5",
+  "sourceSHA256": "c414b239e7e564c463d59fb98c5fa2452bc707321753c2a06729565dfe01b49d",
+  "executedByAgent": false,
+  "sourceCommit": "26225c079b65b5307f0acc46f5ffdce2a6d8e097",
+  "sourceNote": "Current official 0.2.98 source; historical release-tag archive identified itself as 0.2.88. Official winmm.dll unchanged."
+}

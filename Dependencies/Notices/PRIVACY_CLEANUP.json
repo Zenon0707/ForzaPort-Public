@@ -1,0 +1,6 @@
+{
+  "component": "ModelProbe.dll",
+  "change": "Removed absolute local PDB filename from PE CodeView debug record; IL and resources unchanged",
+  "originalSha256": "1f878bff54f613014825ebc7618392cc01a731367195839bec0bdc6fc8eda11e",
+  "distributedSha256": "623c335c46800141faf7a48310b10a90198fb276ddb30856c32c6dc7255993e4"
+}

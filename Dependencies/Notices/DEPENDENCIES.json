@@ -1,0 +1,177 @@
+{
+  "pythonVersion": "3.11.9",
+  "pyinstallerVersion": "6.22.0",
+  "buildRequirements": "scripts/requirements-build.txt",
+  "bundledNativeFiles": [
+    {
+      "name": "python311.dll",
+      "sha256": "0817a2a657a24c0d5fbb60df56960f42fc66b3039d522ec952dab83e2d869364",
+      "origin": "CPython build installation; see accompanying notices"
+    },
+    {
+      "name": "select.pyd",
+      "sha256": "bae0974390945520eb99ab32486c6a964691f8f4a028ac408d98fa8fb0db7d90",
+      "origin": "CPython build installation; see accompanying notices"
+    },
+    {
+      "name": "_decimal.pyd",
+      "sha256": "980a63f2b39cf16910f44384398e25f24482346a482addb00de42555b17d4278",
+      "origin": "CPython build installation; see accompanying notices"
+    },
+    {
+      "name": "_hashlib.pyd",
+      "sha256": "87dd0c858620287454fd6d31d52b6a48eddbb2a08e09e8b2d9fdb0b92200d766",
+      "origin": "CPython build installation; see accompanying notices"
+    },
+    {
+      "name": "unicodedata.pyd",
+      "sha256": "37c68617fa02a2cadced17ef724e2d450ef12a8a37215da789a4679fde1c5c02",
+      "origin": "CPython build installation; see accompanying notices"
+    },
+    {
+      "name": "_socket.pyd",
+      "sha256": "a19e3c7c03ef1b5625790b1c9c42594909311ab6df540fbf43c6aa93300ab166",
+      "origin": "CPython build installation; see accompanying notices"
+    },
+    {
+      "name": "_lzma.pyd",
+      "sha256": "f5e01b516c2c23035f7703e23569dec26c5616c05a929b2580ae474a5c6722c5",
+      "origin": "CPython build installation; see accompanying notices"
+    },
+    {
+      "name": "_bz2.pyd",
+      "sha256": "00b8ca9a338d2b47285c9e56d6d893db2a999b47216756f18439997fb80a56e3",
+      "origin": "CPython build installation; see accompanying notices"
+    },
+    {
+      "name": "_multiprocessing.pyd",
+      "sha256": "975c1947798e3c39898c86675ca1eb68249f77361f41f172f9800275227213b9",
+      "origin": "CPython build installation; see accompanying notices"
+    },
+    {
+      "name": "pyexpat.pyd",
+      "sha256": "c7c7564f7f874fb660a46384980a2cf28bc3e245ca83628a197ccf861eab5560",
+      "origin": "CPython build installation; see accompanying notices"
+    },
+    {
+      "name": "_ssl.pyd",
+      "sha256": "ba5388d6a6557d431e086734a3323621dc447f63ba299b0a815e5837cf869678",
+      "origin": "CPython build installation; see accompanying notices"
+    },
+    {
+      "name": "_ctypes.pyd",
+      "sha256": "c148292328f0aab7863af82f54f613961e7cb95b7215f7a81cafaf45bd4c42b7",
+      "origin": "CPython build installation; see accompanying notices"
+    },
+    {
+      "name": "_queue.pyd",
+      "sha256": "3f8e7e6aa13b417acc78b63434fb1144e6319a010a9fc376c54d6e69b638fe4c",
+      "origin": "CPython build installation; see accompanying notices"
+    },
+    {
+      "name": "_elementtree.pyd",
+      "sha256": "02e30b6a2bee5be5336e40a9c89575603051bde86f9c9cdc78b7fa7d9b7bd1f0",
+      "origin": "CPython build installation; see accompanying notices"
+    },
+    {
+      "name": "_sqlite3.pyd",
+      "sha256": "ff6a2a2f38b21b7784f97d604c99961d8c07ef455f7908110a4e893835d42b76",
+      "origin": "CPython build installation; see accompanying notices"
+    },
+    {
+      "name": "_overlapped.pyd",
+      "sha256": "ca106e4dfdeafeabf9e98956d3d8d0cb73e109f1a96f1a7e35bc47dbd7c7e164",
+      "origin": "CPython build installation; see accompanying notices"
+    },
+    {
+      "name": "_asyncio.pyd",
+      "sha256": "746bc8fa88282afe19dc60e426cc0a75bea3bd137cca06a0b57a30bd31459403",
+      "origin": "CPython build installation; see accompanying notices"
+    },
+    {
+      "name": "PIL\\_webp.cp311-win_amd64.pyd",
+      "sha256": "ab2b193c50448e200b9d9455fef8a1374aac8822b4b8edd6f9f16162f991d3ba",
+      "origin": "Pillow 12.3.0 wheel; RECORD digest verified; see Pillow notices"
+    },
+    {
+      "name": "PIL\\_imagingtk.cp311-win_amd64.pyd",
+      "sha256": "c0796f7768c0fa7bd20df9919b7c39dff544f1a2485f2b79b939142fe9df6596",
+      "origin": "Pillow 12.3.0 wheel; RECORD digest verified; see Pillow notices"
+    },
+    {
+      "name": "PIL\\_avif.cp311-win_amd64.pyd",
+      "sha256": "84528ec60c7a6df7117c6e35257d6b9d369c739444e9a593b68c60b17b6bdd13",
+      "origin": "Pillow 12.3.0 wheel; RECORD digest verified; see Pillow notices"
+    },
+    {
+      "name": "PIL\\_imagingcms.cp311-win_amd64.pyd",
+      "sha256": "dcfcef40237bbef115c4c5dbcb18d1fa3ea8f810f8e6a684cad05d25150e704a",
+      "origin": "Pillow 12.3.0 wheel; RECORD digest verified; see Pillow notices"
+    },
+    {
+      "name": "PIL\\_imagingmath.cp311-win_amd64.pyd",
+      "sha256": "ae7a41f2f9dfcefaaa8334a83b2fe6e1a3658a7fd1e3cba3326d33804666495a",
+      "origin": "Pillow 12.3.0 wheel; RECORD digest verified; see Pillow notices"
+    },
+    {
+      "name": "PIL\\_imaging.cp311-win_amd64.pyd",
+      "sha256": "16452bdc0cd84bbc8e034319e67f776ddc9d23767e6c589d89a5c973738d5fb4",
+      "origin": "Pillow 12.3.0 wheel; RECORD digest verified; see Pillow notices"
+    },
+    {
+      "name": "_uuid.pyd",
+      "sha256": "e6aa7f1637e211251c9d6f467203b2b6d85e5bc2d901699f2a55af637fa89250",
+      "origin": "CPython build installation; see accompanying notices"
+    },
+    {
+      "name": "_tkinter.pyd",
+      "sha256": "6f7bdc2f60a1795b58ec7015ec262d6b234aa8d0f022185de0f52bac4adab449",
+      "origin": "CPython build installation; see accompanying notices"
+    },
+    {
+      "name": "VCRUNTIME140.dll",
+      "sha256": "4d292623516f65c80482081e62d5dadb759dc16e851de5db24c3cbb57b87db83",
+      "origin": "CPython build installation; see accompanying notices"
+    },
+    {
+      "name": "libcrypto-3.dll",
+      "sha256": "05fe080eab7fc535c51e10c1bd76a2f3e6217f9c91a25034774588881c3f99de",
+      "origin": "CPython build installation; see accompanying notices"
+    },
+    {
+      "name": "libssl-3.dll",
+      "sha256": "2e9fbcd8f7fdc13a5179533239811456554f2b3aa2fb10e1b17be0df81c79006",
+      "origin": "CPython build installation; see accompanying notices"
+    },
+    {
+      "name": "libffi-8.dll",
+      "sha256": "eff52743773eb550fcc6ce3efc37c85724502233b6b002a35496d828bd7b280a",
+      "origin": "CPython build installation; see accompanying notices"
+    },
+    {
+      "name": "sqlite3.dll",
+      "sha256": "314bba62f4a1628b986afc94c09dc29cdaf08210eae469440fbf46bcdb86d3fd",
+      "origin": "CPython build installation; see accompanying notices"
+    },
+    {
+      "name": "tcl86t.dll",
+      "sha256": "4e699ff2d6d147d0586c8c77be5a18f20ca0758f432d7b0f489223f2fa4dd221",
+      "origin": "CPython build installation; see accompanying notices"
+    },
+    {
+      "name": "tk86t.dll",
+      "sha256": "b6af038120f2b8644c7ce1e11917f410009848287622135d7e386f90d28a831c",
+      "origin": "CPython build installation; see accompanying notices"
+    }
+  ],
+  "external": [
+    ".NET 8 x64 runtime",
+    "Complete matching prepared ModelProbe helper folder",
+    "granny2_x64.dll",
+    "Texture runtime xg_x.dll and kernelx.dll",
+    "Native Xbox One PC xg.dll for AO; not Azimuth adapter",
+    "User-owned game files and readable source database"
+  ],
+  "distributionStatus": "Maintainer confirms supplied dependency licences/permissions; retain notices and credits",
+  "runtimeCompatibility": "Evaluation checkpoint; clean-machine conversion and gameplay acceptance remain separate"
+}

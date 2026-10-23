@@ -1,0 +1,17 @@
+{
+  "rules": [
+    {"sourceContains":"\\carpaint_default\\", "target":"paint", "reason":"Body paint uses native carpaint and user colour; source multilayer parameters omitted"},
+    {"sourceContains":"\\paint\\paintedmetal.materialbin", "target":"plastic", "reason":"Fixed-colour coated trim preview; never bind this shader to user body colour"},
+    {"sourceContains":"\\detail\\defrostlines_ch1.materialbin", "target":"clear", "reason":"Transparent overlay approximation; source demister pattern is not translated"},
+    {"sourceContains":"\\glass\\glass_windshield.materialbin", "target":"windshield", "reason":"Native windshield shader approximation; source glass parameters omitted"},
+    {"sourceContains":"\\glass\\glass_edge.materialbin", "target":"edge", "reason":"Native glass edge approximation"},
+    {"sourceContains":"\\glass\\", "target":"glass", "reason":"Native window shader approximation"},
+    {"sourceContains":"\\rubber\\", "target":"rubber", "reason":"Native rubber approximation"},
+    {"sourceContains":"\\metal\\chrome", "target":"chrome", "reason":"Native chrome approximation"},
+    {"sourceContains":"\\metal\\", "target":"metal", "reason":"Native steel approximation"},
+    {"sourceContains":"\\wheel\\wheelpaint.materialbin", "target":"metal", "reason":"Native metal wheel preview; source wheel paint not translated"},
+    {"sourceContains":"\\plastic\\", "target":"plastic", "reason":"Native dark plastic approximation; source tint/detail omitted"},
+    {"sourceContains":"\\specialcase\\blackframe.materialbin", "target":"plastic", "reason":"Opaque dark window border approximation"},
+    {"sourceContains":"\\specialcase\\blackhole.materialbin", "target":"plastic", "reason":"Opaque dark cavity approximation"}
+  ]
+}

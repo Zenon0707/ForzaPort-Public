@@ -1,0 +1,19 @@
+Keep this Dependencies folder beside ForzaPort.exe.
+Resources are detected automatically when supplied in these locations:
+
+ModelProbe/ModelProbe.dll - complete matching helper and its dependencies.
+TextureRuntime/xg_x.dll and kernelx.dll - separately supplied texture libraries.
+TextureRuntime/xg.dll - native Xbox One PC XG library for AO alpha adaptation.
+This is not Azimuth's similarly named adapter; never copy it into the game.
+SourceResources/gamedbRC.decrypted.sqlite - your readable FH6 database.
+SourceResources/Materials.zip - your FH6 source materials archive.
+Runtime/ - supplied official Extra Options runtime, license and corresponding source.
+
+Install Microsoft .NET 8 x64 Runtime separately. Python is already in the EXE.
+Choose your FH2/Azimuth folder in Settings; no directory is hardcoded.
+Missing resources are explained by Check setup. Advanced paths support other locations.
+
+Keep all supplied notices, credits and runtime corresponding source.
+Each tester supplies their own game archives, source database and materials.
+An exported converted package does not acquire newer conversion fixes on install:
+reconvert its original source archive to apply those fixes.

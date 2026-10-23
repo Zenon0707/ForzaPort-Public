@@ -1,0 +1,171 @@
+{
+  "privateResourcesIncluded": false,
+  "preparedToolsIncluded": true,
+  "files": [
+    {
+      "path": "Dependencies/ExperimentalRuntime/LICENSE",
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "size": 35149
+    },
+    {
+      "path": "Dependencies/ExperimentalRuntime/PROVENANCE.json",
+      "sha256": "3fed7b8573a0f07525cb10cc9b0c880e372cd07c5534a1d3f1f76d9a5e0ef387",
+      "size": 441
+    },
+    {
+      "path": "Dependencies/ExperimentalRuntime/SOURCE.zip",
+      "sha256": "ea8d94f5983b12ca56a77b3494c1cfee01c9fecf22f1b9b7ffb4f6f7cb3e21d8",
+      "size": 186907
+    },
+    {
+      "path": "Dependencies/ExperimentalRuntime/winmm.dll",
+      "sha256": "3eaea740bf14d6639c0374f24af8e60f333792ad1eb21277bce0d0a6117cc7e1",
+      "size": 261632
+    },
+    {
+      "path": "Dependencies/ModelProbe/granny2_x64.dll",
+      "sha256": "ccabcba2c038b1e6f3569c9c488cd5f43394b70ba4374c751b8b284b9f030e6c",
+      "size": 771072
+    },
+    {
+      "path": "Dependencies/ModelProbe/ModelProbe.deps.json",
+      "sha256": "24cee98e4d95e6dec5303cd21c6393be832d56f34fe4d5bdb4cd6e06f76ba569",
+      "size": 1135
+    },
+    {
+      "path": "Dependencies/ModelProbe/ModelProbe.dll",
+      "sha256": "623c335c46800141faf7a48310b10a90198fb276ddb30856c32c6dc7255993e4",
+      "size": 1094144
+    },
+    {
+      "path": "Dependencies/ModelProbe/ModelProbe.runtimeconfig.json",
+      "sha256": "97c9700542b659150b230c3578b29530fd76ab01ec66a92cd16945e0245713df",
+      "size": 328
+    },
+    {
+      "path": "Dependencies/ModelProbe/profiles/preview-materials.json",
+      "sha256": "e698598da7d319d3b10f460cbd2de56e95973ef20b724e972ee8741db94625af",
+      "size": 1751
+    },
+    {
+      "path": "Dependencies/ModelProbe/Syroot.BinaryData.Core.dll",
+      "sha256": "e12264004ea728b01ed0808213c30a2da4d170f5a5912aea3c4d4c481dba7aed",
+      "size": 7168
+    },
+    {
+      "path": "Dependencies/ModelProbe/Syroot.BinaryData.dll",
+      "sha256": "6680948e428db2d2c1210f0797362aa7075b5a13a483c02d1d9b03a3d38fd3dd",
+      "size": 186880
+    },
+    {
+      "path": "Dependencies/Notices/BUILD.json",
+      "sha256": "afdfe6ddb6091bb9cb377c2de6babd69bd4ac21b3b53d720d697844f202e8d44",
+      "size": 268
+    },
+    {
+      "path": "Dependencies/Notices/CREDITS.md",
+      "sha256": "aa079f6a769ed334d343bff0e8973b559d8f6c779411edb67d0e0b4dd6700e25",
+      "size": 3873
+    },
+    {
+      "path": "Dependencies/Notices/DEPENDENCIES.json",
+      "sha256": "de194a1c260a0877823ac15e99397b4f4a81076127356dd07fb1b40da80b0a4a",
+      "size": 7210
+    },
+    {
+      "path": "Dependencies/Notices/licenses/Pillow/LICENSE",
+      "sha256": "51ed379cf673c9676b7fa7e1bedbfc5d4ad63caac4f6f99eeec5ccab50c3e0ef",
+      "size": 76435
+    },
+    {
+      "path": "Dependencies/Notices/licenses/PyInstaller.txt",
+      "sha256": "dcf75fdb959db1e3b41c0f8505069d2ece781b5ec6b3d0a4d30975cfc6580245",
+      "size": 32138
+    },
+    {
+      "path": "Dependencies/Notices/licenses/Python-ThirdParty.html",
+      "sha256": "9b32a186157afe1bdfb46f0dae51d3b56cec766620a131bf76cf1ae59aa0768a",
+      "size": 81992
+    },
+    {
+      "path": "Dependencies/Notices/licenses/Python.txt",
+      "sha256": "a4771d2216653fca4e3472566a762ba8ce5358f6f6599455fe7cfaceb60d14b3",
+      "size": 36235
+    },
+    {
+      "path": "Dependencies/Notices/licenses/Tcl.txt",
+      "sha256": "c0a69a2bfd757361ec7e6143973b103c90409316b49e9c88db26ad6388e79f16",
+      "size": 2255
+    },
+    {
+      "path": "Dependencies/Notices/licenses/Tk.txt",
+      "sha256": "2cde822b93ca16ae535c954b7dfe658b4ad10df2a193628d1b358f1765e8b198",
+      "size": 2267
+    },
+    {
+      "path": "Dependencies/Notices/RELEASE_CANDIDATE.md",
+      "sha256": "61354bf496d49ed6f6077c51fd521bdf3ec939ada139a7e7d273be9b61cde261",
+      "size": 6195
+    },
+    {
+      "path": "Dependencies/Runtime/LICENSE",
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "size": 35149
+    },
+    {
+      "path": "Dependencies/Runtime/PROVENANCE.json",
+      "sha256": "b8de5d85862c9ab91d6501757e06cf7a3de64f3079eacd70b3f37d6fca5f1717",
+      "size": 705
+    },
+    {
+      "path": "Dependencies/Runtime/SOURCE.zip",
+      "sha256": "c414b239e7e564c463d59fb98c5fa2452bc707321753c2a06729565dfe01b49d",
+      "size": 190797
+    },
+    {
+      "path": "Dependencies/Runtime/winmm.dll",
+      "sha256": "d372b3a331c93cbbbf984d9a3b5df63836fdfb2aee26a10660c838c4806ff3d5",
+      "size": 256000
+    },
+    {
+      "path": "Dependencies/SETUP.txt",
+      "sha256": "7fc10140637b69b8c64c2646ea8b50d4debc02a06139298c5adaeaef322ba478",
+      "size": 1188
+    },
+    {
+      "path": "Dependencies/TextureRuntime/kernelx.dll",
+      "sha256": "d4e9587dea3f58a650dc80239f24391a2c0a3a9d78e727c9608aa82aa7496aac",
+      "size": 2560
+    },
+    {
+      "path": "Dependencies/TextureRuntime/xg.dll",
+      "sha256": "3931dc3d735362e7cf3be071f7b8ccb87117590654044c41bee7de466125a9cc",
+      "size": 146944
+    },
+    {
+      "path": "Dependencies/TextureRuntime/xg_x.dll",
+      "sha256": "9e3a06d02784699c252bea271090b9e2a04ef2cb29b5b0647c6ce6e73b19db67",
+      "size": 103936
+    },
+    {
+      "path": "ForzaPort.exe",
+      "sha256": "8ca1d813936fda07460552df6ce36035b96269b0e4cf9ccb63fb1e13882cd5f5",
+      "size": 19542091
+    },
+    {
+      "path": "README.txt",
+      "sha256": "f5d6a2e371be3e64e2c0386ba4d2653a0d3a58eaeb0e79ff0998ebbda59754ed",
+      "size": 5506
+    },
+    {
+      "path": "Dependencies/Notices/PRIVACY_CLEANUP.json",
+      "size": 330,
+      "sha256": "905eb6918e44097401bce41da461cbd4f7ce34a5d7baf4107195480f1ef86c19"
+    },
+    {
+      "path": "Dependencies/Notices/licenses/fh2-mods-MIT.txt",
+      "size": 1086,
+      "sha256": "e09f2db04fa0bd68521ec47a0a400b14e0720c9008acc0ff546cbe4ab6dab914"
+    }
+  ]
+}

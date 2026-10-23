@@ -1,0 +1,9 @@
+{
+  "base": "Official Extra Options 0.2.98",
+  "version": "0.2.98.16-experimental",
+  "officialSourceSHA256": "c414b239e7e564c463d59fb98c5fa2452bc707321753c2a06729565dfe01b49d",
+  "officialCommit": "26225c079b65b5307f0acc46f5ffdce2a6d8e097",
+  "winmmSHA256": "3eaea740bf14d6639c0374f24af8e60f333792ad1eb21277bce0d0a6117cc7e1",
+  "sourceSHA256": "ea8d94f5983b12ca56a77b3494c1cfee01c9fecf22f1b9b7ffb4f6f7cb3e21d8",
+  "runtimeVerified": false
+}
